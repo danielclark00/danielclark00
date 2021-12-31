@@ -45,7 +45,11 @@
 </a>
 
 ---
-<h3 align="center"><b> GitHub Stats </b></h3>
+<h3 align="center"><b> GitHub Stats & Trophy's 🏆</b></h3>
+
+<a href="https://github.com/danielclark00/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=danielclark00&theme=darkhub&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
+</a>
 
 <a href="https://github.com/danielclark00/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielclark00&show_icons=true&theme=github_dark&hide_title=true&layout=compact" width="49%" />
@@ -53,10 +57,6 @@
 
 <a href="https://github.com/danielclark00/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="50%" />
-</a>
-
-<a href="https://github.com/danielclark00/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=danielclark00&theme=darkhub&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </a>
 
 <!--
