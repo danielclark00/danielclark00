@@ -114,7 +114,7 @@
 </a>
 
 <a href="https://github.com/danielclark00/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="499" height="170"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="450" height="170"/>
 </a>
 
 ---
