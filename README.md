@@ -109,12 +109,14 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danielclark00&theme=darkhub&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </a> 
 
+<p align="center">
 <a href="https://github.com/danielclark00/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielclark00&show_icons=true&theme=github_dark&hide_title=true&layout=compact" width="49%" />
 </a>
 
 <a href="https://github.com/danielclark00/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="450" height="170"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="500" height="170"/>
 </a>
+</p>
 
 ---
