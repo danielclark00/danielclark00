@@ -7,7 +7,7 @@
 
 <h3 align="center"><b> Hi, I'm Daniel! Welcome to my journey  👋</b></h3>
 
-<p align="center"> I am a developer from Seattle. I am currently finishing my time at Bloomtech to become a backend software engineer. I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below topics and plan to try different projects in each area to help narrow down my choices. Currently, I am proficient in Java and C++ but have dabbled in other languages such as C, Python, Js, CSS, and HTML. </p>
+<p align="center"> I am a developer from Seattle. I am currently finishing my time at Bloomtech to become a Backend Software Engineer. Beyond becomeing a Backend dev, I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below topics and plan to try different projects in each area to help narrow down my choice even further. Currently, I am proficient in Java and C++ but have dabbled in other languages such as C, Python, Js, CSS, and HTML. </p>
 
 <p align="center"> In general, I enjoy challenging myself and learning new things. But this journey started because technology fascinates me. The depth and breadth of where technology has come (and will go) and how it impacts our life is mind-blowing. And I want to be a part of this. </p>
 
