@@ -21,9 +21,15 @@
 <h4 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/danielclark00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielclark00" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/danielclark00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielclark00" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/darktidings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darktidings" height="30" width="40" /></a>
+  <a href="https://twitter.com/danielclark00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielclark00" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/danielclark00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielclark00" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/darktidings" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darktidings" height="30" width="40" />
+  </a>
 </p>
 
 
@@ -109,14 +115,13 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danielclark00&theme=darkhub&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </a> 
 
-<p align="center">
-<a href="https://github.com/danielclark00/github-readme-stats">
+
+<a align="left" href="https://github.com/danielclark00/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielclark00&show_icons=true&theme=github_dark&hide_title=true&layout=compact" width="49%" />
 </a>
 
-<a href="https://github.com/danielclark00/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="500" height="170"/>
+<a align="right" href="https://github.com/danielclark00/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielclark00&layout=compact&show_icons=true&theme=github_dark" width="49%" height="170"/>
 </a>
-</p>
 
 ---
