@@ -1,4 +1,4 @@
-<img src="https://github.com/danielclark00/danielclark00/blob/897780b49d6471b9f78586a6011b93e15813f0be/header.gif" width="1000" height="250" />
+<img src="https://media.giphy.com/media/XhIEquUNz5aspSNrws/giphy.gif" width="1000" height="250"/>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate backend developer from Seattle</h3>
