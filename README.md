@@ -7,9 +7,9 @@
 
 <h3 align="center"><b> Hi, I'm Daniel! Welcome to my journey  👋</b></h3>
 
-<p align="center"> I am a developer from Seattle. I am currently finishing my time at Bloomtech to become a Backend Software Engineer. Beyond becomeing a Backend dev, I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below topics and plan to try different projects in each area to help narrow down my choice even further. Currently, I am proficient in Java and C++ but have dabbled in other languages such as C, Python, Js, CSS, and HTML. </p>
+<p align="center"> I am a highly motivated and skilled Backend Software Engineer from Seattle, and I am deeply passionate about specializing in the field of ML/AI deployment. With a strong foundation in Java and C++, I am continuously expanding my proficiency in Python, as well as other languages such as C, Js, CSS, and HTML. My focus and dedication to mastering new skills and exploring cutting-edge technologies have led me to the realization that my future lies in the exciting and ever-evolving realm of ML/AI. </p>
 
-<p align="center"> In general, I enjoy challenging myself and learning new things, but this journey started because technology fascinates me. The depth and breadth of where technology has come (and will go) and how it impacts our life is mind-blowing. I want to be a part of this. </p>
+<p align="center"> My enthusiasm for technology is what drives me to constantly challenge myself and learn new things. Witnessing the incredible advancements in technology and how it impacts our daily lives has left me in awe. I am dedicated to being a part of this exciting journey, and I can't wait to see where it takes me. </p>
 
 <p align="center"> I will continue to add awesome projects, so stay tuned. </p>
 
