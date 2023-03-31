@@ -13,9 +13,9 @@
 
 <p align="center"> I will continue to add awesome projects, so stay tuned. </p>
 
-<p align="center"> 🌱 Follow along as I learn. </p>
+<p align="center"> 🌱 Follow along as I build. </p>
 
-<p align="center"> 📫  If you're interested in any of my work, please reach out with any suggestions or leave a comment! </p>
+<p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out! </p>
 
 
 <h4 align="left">Connect with me:</h3>
@@ -29,6 +29,9 @@
   </a>
   <a href="https://www.leetcode.com/darktidings" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darktidings" height="30" width="40" />
+  </a>
+  <a href="https://huggingface.co/Pearson" target="blank">
+    <img align="center" src="https://github.com/danielclark00/github-profile-readme-generator/blob/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face Profile" height="30" width="40" />
   </a>
 </p>
 
@@ -82,7 +85,7 @@
   </a>
 </p>
 
----
+<!--
 
 <h3 align="center"<b> Projects & Interests </b></h3>
 
@@ -112,6 +115,7 @@
 </a>
 </p>
 
+-->
 ---
 
 <h3 align="center"><b> GitHub Stats & Trophy's 🏆</b></h3>
